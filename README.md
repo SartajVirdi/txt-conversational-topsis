@@ -58,7 +58,7 @@ The graph below shows the TOPSIS score of each conversational model and helps in
 ## Comparison of All Models Based on Parameters
 The graph below compares the input parameters of all models, providing insight into how each model performs across different evaluation criteria.
 
-![Parameter Comparison](#)
+![Parameter Comparison](assets/541254901-96978b92-58d8-441a-84ca-f0277119908a.png)
 
 ## Conclusion
 Based on the TOPSIS evaluation, **FLAN-T5 Base** emerged as the most suitable conversational AI model among the selected alternatives. It provides a balanced trade-off between response quality, speed, low latency, manageable model size, and ease of use. The use of TOPSIS ensured a systematic and unbiased evaluation by considering both beneficial and non-beneficial criteria.
