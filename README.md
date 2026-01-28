@@ -53,7 +53,7 @@ The findings show that **FLAN-T5 Base** achieved the highest TOPSIS score among 
 ## Comparison of All Models Based on TOPSIS Score
 The graph below shows the TOPSIS score of each conversational model and helps in visually identifying the best-performing model.
 
-![TOPSIS Score Comparison](#)
+![TOPSIS Score Comparison](assets/541254704-fa4873a7-ce8e-4742-97ce-d3b63e03a1ac.png)
 
 ## Comparison of All Models Based on Parameters
 The graph below compares the input parameters of all models, providing insight into how each model performs across different evaluation criteria.
